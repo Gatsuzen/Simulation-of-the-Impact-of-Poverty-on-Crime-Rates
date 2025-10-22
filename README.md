@@ -1,10 +1,10 @@
-# 🧠 Simulation of the Impact of Poverty on Crime Rates
+#  Simulation of the Impact of Poverty on Crime Rates
 
 This project explores how poverty levels influence crime rates through data simulation and analysis. Using Python, it models the relationship between income distribution and crime occurrence to identify statistical and visual trends.
 
 ---
 
-## 📌 Objectives
+##  Objectives
 
 1. **Define and calculate poverty**  
    - Identify individuals below a user-defined income threshold.
@@ -20,7 +20,7 @@ This project explores how poverty levels influence crime rates through data simu
 
 ---
 
-## 🧩 Features
+##  Features
 
 - Simulated population dataset with income and crime data.  
 - Statistical comparison using the **KS Test**.  
@@ -29,7 +29,7 @@ This project explores how poverty levels influence crime rates through data simu
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - **Python 3**
 - **Pandas**
